@@ -15,7 +15,7 @@ A prototype AI Chatbot built using **Flask** and **Hugging Face DialoGPT** model
 
 ## 🏃 Run Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/chatbot-project.git
+git clone https://github.com/Pratham1-hue/chatbot-project.git
 cd chatbot-project
 pip install -r requirements.txt
 python app.py
